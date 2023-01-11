@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JamesPiastro3D
+- 👋 Hi, I'm James Piastro
 - 👀 I’m interested in Game Designing, Programming in Java
 - 🌱 I’m currently learning Core Java, Java Framework, Database, GIT and GitHub, Unity & 3D, C#
 - 📫 Reach me on instagram https://www.instagram.com/kagami2k23/
